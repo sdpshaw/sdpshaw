@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sdpshaw
 - 👀 I’m interested in Machine Learning, Data Science 
 - 🌱 I’m currently working as Senior Data Scientist
-- 💞️ I’m looking to collaborate on data science, ML, Supply chain
+- 💞️ I’m looking to collaborate on Data Science, ML, Supply Chain
 - 📫 How to reach me LinkedIn@sdpshaw
 
 <!---
